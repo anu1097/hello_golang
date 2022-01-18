@@ -1,0 +1,4 @@
+github.com/anu1097/golang_module/greetings_1 v0.0.0-20220118194749-fbbae2f08175 h1:G7zevOwN67C/vPmeYnVezAU2WvOTA2kiw6kh+bQO6+I=
+github.com/anu1097/golang_module/greetings_1 v0.0.0-20220118194749-fbbae2f08175/go.mod h1:rIj/L0vwVKRwEk8WonD5VMGdycGEo9h96VtFP5JTVTg=
+github.com/anu1097/golang_module/greetings_2 v0.0.0-20220118194749-fbbae2f08175 h1:laEN0KZEZVkLpaow+Sut99YVUf8xaWzQyi1twocTis0=
+github.com/anu1097/golang_module/greetings_2 v0.0.0-20220118194749-fbbae2f08175/go.mod h1:aMW20eX1iZSvCAPymqkwa9w7eXh+6o0zADCicZIKQvU=
